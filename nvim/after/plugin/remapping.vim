@@ -1,0 +1,15 @@
+unmap <Leader>s
+unmap <Leader>a
+unmap <Leader>p
+unmap <Leader>k
+unmap <Leader>j
+unmap <Leader>o
+unmap <Leader>c
+unmap <Leader>e
+unmap <Leader>qf
+unmap <Leader>ac
+unmap <Leader>f
+unmap <Leader>rn
+unmap <Leader>M
+unmap <Leader>wt
+unmap <Leader>ww
